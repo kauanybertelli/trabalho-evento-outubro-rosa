@@ -1,0 +1,68 @@
+form {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 20px auto; /* Centraliza o formulário */
+    width: 80%; /* Define a largura do formulário */
+    max-width: 400px; /* Define a largura máxima */
+    
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 14px; /* Diminui o tamanho da fonte */
+}
+
+input[type="text"],
+input[type="email"],
+select,
+textarea {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px; /* Diminui o tamanho da fonte */
+}
+
+button {
+    background-color: #ff69b4; /* Rosa */
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px; /* Diminui o tamanho da fonte */
+}
+
+button:hover {
+    background-color: #ff1493; /* Rosa mais escuro */
+}
+
+/* Estilo para o iframe */
+iframe {
+    display: block;
+    margin: 20px auto; /* Centraliza o iframe */
+    border: 0; /* Remove a borda */
+}
+
+h2 {
+    text-align: center; /* Centraliza o texto do h3 */
+    font-size: 18px; /* Ajusta o tamanho da fonte, se necessário */
+    margin-bottom: 15px; /* Espaçamento abaixo do título */
+}
+
+h3 {
+    text-align: center; /* Centraliza o texto do h3 */
+    font-size: 18px; /* Ajusta o tamanho da fonte, se necessário */
+    margin-bottom: 15px; /* Espaçamento abaixo do título */
+}
+
+.contato-form {
+    text-align: center; /* Centraliza o texto do h3 */
+    font-size: 18px; /* Ajusta o tamanho da fonte, se necessário */
+    margin-bottom: 15px; /* Espaçamento abaixo do título */
+}
