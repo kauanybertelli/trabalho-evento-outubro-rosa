@@ -1,4 +1,4 @@
-# Página de Receita Simples
+# Página de evento como tema Outubro Rosa
 
 Este projeto é um trabalho solicitado pelo professor **Página de evento como tema Outubro Rosa**, desenvolvida com HTML e CSS básico. O objetivo é praticar habilidades de estilização e gerenciamento de projetos com Git.
 
